@@ -57,6 +57,7 @@
 ![Pycharm][pycharm-url]
 ![Android Studio][as-url]
 ![Notepadd++][notepad-url]
+![Kali Linux][kalilinux-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Projects
@@ -101,3 +102,4 @@ Please visit my <a href="www.linkedin/in/serengetijade">LinkedIn</a> for contact
 [pycharm-url]: https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
 [as-url]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
 [notepad-url]: https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black
+[kalilinux-url]: https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
