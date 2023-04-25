@@ -79,7 +79,7 @@ Jade is a software engineer with a clever, curious, and strategic mind. A life-l
 
 ### Contact 📫
 Thank you for your time and consideration. 
-Please visit my <a href="www.linkedin/in/serengetijade">LinkedIn</a> for contact details. 
+Please visit my <a href="https://www.linkedin.com/in/serengeti-jade-abreu-906ab2249">LinkedIn</a> for contact details. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
