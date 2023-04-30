@@ -84,6 +84,7 @@ Please visit my <a href="https://www.linkedin.com/in/serengeti-jade-abreu-906ab2
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- Badges source credit: https://dev.to/envoy_/150-badges-for-github-pnk -->
 [c#-url]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [python-url]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [html-url]: https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
