@@ -76,7 +76,7 @@ Jade is a software engineer with a clever, curious, and strategic mind. A life-l
 
 🔭 I’m currently working on C# projects (more details coming soon).
 <br />🌱 I’m currently learning android app and game development. 
-<br />🤔 Fun facts: I've been bitten by a penguine, stung by a stingray, and swum with great white sharks (not in the same day, fortunately).  I was staying in a village in Borneo when it was attacked by pirates. I've visted 7 continents. I love the challenges of coding. 
+<br />🤔 Fun facts: I've been bitten by a penguine, stung by a stingray, and swum with great white sharks- luckily, not all in the same day.  I was visiting a village in Borneo when it was attacked by pirates. The biggest earthquake I've been in was a 6.8. I've been to all 7 continents. I love the challenges of coding. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Contact 📫
