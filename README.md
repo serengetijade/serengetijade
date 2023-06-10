@@ -28,7 +28,7 @@
       <a href="#projects">Projects</a>
       <ul>
         <li><a href="#prerequisites">C# Web app for Portland theatre company</a></li>
-        <li><a href="#installation">Python stand along web app</a></li>
+        <li><a href="#installation">Python stand alone web app</a></li>
       </ul>
     </li>
     <li>
